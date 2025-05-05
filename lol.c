@@ -5,5 +5,7 @@ int main(){
     prtinf("Chrisjo Bijijiiiiiiii");
     printf("Biji chrisjooo ukuran kenariiiiii");
     printf("Idfk mennnnnnnnn");
-    printf("Bjijiiii")
+    printf("Bjijiiii");
+
+    printf("IDKKK MEN");
 }
